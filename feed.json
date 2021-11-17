@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "USSG",
+    "description": "",
+    "home_page_url": "https://kmeesters.github.io",
+    "feed_url": "https://kmeesters.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Kenny Meesters"
+    },
+    "items": [
+        {
+            "id": "https://kmeesters.github.io/test-post.html",
+            "url": "https://kmeesters.github.io/test-post.html",
+            "title": "Test post",
+            "author": {
+                "name": "Kenny Meesters"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-11-17T20:56:51+01:00",
+            "date_modified": "2021-11-17T20:56:51+01:00"
+        }
+    ]
+}

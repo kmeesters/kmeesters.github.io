@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>USSG</title>
+    <link href="https://kmeesters.github.io/feed.xml" rel="self" />
+    <link href="https://kmeesters.github.io" />
+    <updated>2021-11-17T20:56:51+01:00</updated>
+    <author>
+        <name>Kenny Meesters</name>
+    </author>
+    <id>https://kmeesters.github.io</id>
+
+    <entry>
+        <title>Test post</title>
+        <author>
+            <name>Kenny Meesters</name>
+        </author>
+        <link href="https://kmeesters.github.io/test-post.html"/>
+        <id>https://kmeesters.github.io/test-post.html</id>
+
+        <updated>2021-11-17T20:56:51+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

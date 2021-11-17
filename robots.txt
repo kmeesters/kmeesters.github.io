@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kmeesters.github.io/sitemap.xml
