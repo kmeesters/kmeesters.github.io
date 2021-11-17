@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://kmeesters.github.io/test-post.html",
-            "url": "https://kmeesters.github.io/test-post.html",
+            "id": "https://kmeesters.github.io/test-post/",
+            "url": "https://kmeesters.github.io/test-post/",
             "title": "Test post",
             "author": {
                 "name": "Kenny Meesters"
